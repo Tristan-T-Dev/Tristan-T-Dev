@@ -48,12 +48,6 @@ I also love competing in **local and international hackathons** 🏆.
   <img src="https://github-readme-stats.vercel.app/api?username=Tristan-T-Dev&show_icons=true&hide_border=true&bg_color=181824&title_color=0891b2&text_color=ffffff&icon_color=0891b2" height="160" />
 </a>
 <a href="https://github.com/Tristan-T-Dev">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Tristan-T-Dev&theme=tokyonight&hide_border=true" height="160" />
-</a>
-</p>
-
-<p align="center">
-<a href="https://github.com/Tristan-T-Dev">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tristan-T-Dev&langs_count=8&layout=compact&hide_border=true&bg_color=181824&title_color=0891b2&text_color=ffffff" height="160" />
 </a>
 </p>

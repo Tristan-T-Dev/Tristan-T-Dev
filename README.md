@@ -15,9 +15,9 @@ I also love competing in **local and international hackathons** 🏆.
 - 💬 Motto → *“Don’t wait until you’re ready, just start.”*  
 
 
-### 🛠️ Tech Stack  
 
-<p align="left">
+
+<p align="center">
 <a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
 <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
@@ -33,6 +33,11 @@ I also love competing in **local and international hackathons** 🏆.
 <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
 <a href="https://www.figma.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
+
+### 🐍 Contribution Snake
+
+![Snake animation](https://raw.githubusercontent.com/Tristan-T-Dev/Tristan-T-Dev/output/snake.svg)
+
 
 ### 🤝 Connect with Me  
 

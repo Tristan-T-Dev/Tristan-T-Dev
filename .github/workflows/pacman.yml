@@ -24,7 +24,11 @@ jobs:
       - name: Generate pacman-contribution-graph.svg
         run: |
           export NODE_OPTIONS="--max-old-space-size=8192"
-          npx abozanona/pacman-contribution-graph --username ${{ github.repository_owner }}
+          npx github:abozanona/pacman-contribution-graph \
+            --platform github \
+            --gameTheme github-dark \
+            --username ${{ github.repository_owner }} \
+            -o dist/pacman-contribution-graph.svg
         shell: bash
 
       - name: Push pacman-contribution-graph.svg to output branch

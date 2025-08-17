@@ -34,10 +34,7 @@ I also love competing in **local and international hackathons** 🏆.
 <a href="https://www.figma.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 
-### 🐍 Contribution Snake
-
 ![Snake animation](https://raw.githubusercontent.com/Tristan-T-Dev/Tristan-T-Dev/output/snake.svg)
-
 
 ### 🤝 Connect with Me  
 

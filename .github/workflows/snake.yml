@@ -2,19 +2,19 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # runs daily at 00:00 UTC
-  workflow_dispatch:      # allow manual runs
+    - cron: "0 0 * * *"   # runs every day at midnight UTC
+  workflow_dispatch:      # lets you trigger manually
 
 jobs:
   build:
     runs-on: ubuntu-latest
     permissions:
-      contents: write     # needed to push the generated files
+      contents: write
     steps:
       - name: Generate Snake SVGs
         uses: Platane/snk@v3
         with:
-          github_user_name: Tristan-T-Dev
+          github_user_name: Tristan-T-Dev   # 👈 your GitHub username
           outputs: |
             dist/snake.svg
             dist/snake-dark.svg?palette=github-dark

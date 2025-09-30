@@ -1,4 +1,4 @@
-# Front-End Developer | Aspiring Blockchain Developer  
+# Front-End Developer | Blockchain Developer  
 
 I’m a Computer Science student passionate about building, designing, and experimenting with new technologies.  
 I also love competing in **local and international hackathons**.  

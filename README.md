@@ -1,4 +1,4 @@
-# Front-End Developer | Blockchain Developer  
+# Full Stack Developer | Machine Learning Engineer  
 
 I’m a Computer Science student passionate about building, designing, and experimenting with new technologies.  
 I also love competing in **local and international hackathons**.  
